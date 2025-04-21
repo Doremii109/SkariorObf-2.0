@@ -1,5 +1,7 @@
 # English
 
+My Telegram channel: https://t.me/doratools_channel
+
 # SkariorObf-2.0
 A strong tool for good protection of Python code.
 
@@ -16,6 +18,8 @@ Under the MIT license. See [LICENSE](https://github.com/Doremii109/SkariorObf-2.
 
 
 # Русский
+
+Мой тгк мабой: https://t.me/doratools_channel
 
 # SkariorObf-2.0
 Сильный инструмент для хорошей защиты кода Python.
