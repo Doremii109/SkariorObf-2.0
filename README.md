@@ -4,6 +4,8 @@
 A strong tool for good protection of Python code.
 
 ## Installing required modules
+Python 3.10 or high!
+
 `pip install tqdm`
 
 ## Usage
@@ -19,6 +21,7 @@ Under the MIT license. See [LICENSE](https://github.com/Doremii109/SkariorObf-2.
 Сильный инструмент для хорошей защиты кода Python.
 
 ## Загрузка необходимых модулей
+Python 3.10 или выше!
 `pip install tqdm`
 
 ## Запуск
