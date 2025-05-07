@@ -20,7 +20,7 @@ Python 3.12 or high!
 `pkg install git`<br>
 `pkg install python3`<br>
 `git clone https://github.com/Doremii109/SkariorObf-2.0`<br>
-`cd SkariorObf-2.0\PC`<br>
+`cd SkariorObf-2.0\Android`<br>
 `python SkariorObf_2.0_Android.pyc`
 
 ## License
@@ -49,7 +49,7 @@ Python 3.12 или выше!
 `pkg install git`<br>
 `pkg install python3`<br>
 `git clone https://github.com/Doremii109/SkariorObf-2.0`<br>
-`cd SkariorObf-2.0\PC`<br>
+`cd SkariorObf-2.0\Android`<br>
 `python SkariorObf_2.0_Android.pyc`
 
 ## Лицензия
