@@ -6,12 +6,22 @@ My Telegram channel: https://t.me/doratools_channel
 A strong tool for good protection of Python code.
 
 ## Installing required modules
-Python 3.10 or high!
+Python 3.12 or high!
 
 `pip install tqdm`
 
 ## Usage
-`python SkariorObf_2.0.py`
+### For Windows
+`git clone https://github.com/Doremii109/SkariorObf-2.0`
+`cd SkariorObf-2.0\PC`
+`python SkariorObf_2.0_PC.py`
+
+### For Termux
+`pkg install git`
+`pkg install python3`
+`git clone https://github.com/Doremii109/SkariorObf-2.0`
+`cd SkariorObf-2.0\PC`
+`python SkariorObf_2.0_PC.py`
 
 ## License
 Under the MIT license. See [LICENSE](https://github.com/Doremii109/SkariorObf-2.0/blob/main/LICENSE) file for more details.
@@ -25,11 +35,22 @@ Under the MIT license. See [LICENSE](https://github.com/Doremii109/SkariorObf-2.
 Сильный инструмент для хорошей защиты кода Python.
 
 ## Загрузка необходимых модулей
-Python 3.10 или выше!
+Python 3.12 или выше!
+
 `pip install tqdm`
 
 ## Запуск
-`python SkariorObf_2.0.py`
+### Для Windows
+`git clone https://github.com/Doremii109/SkariorObf-2.0`
+`cd SkariorObf-2.0\PC`
+`python SkariorObf_2.0_PC.py`
+
+### Для Termux
+`pkg install git`
+`pkg install python3`
+`git clone https://github.com/Doremii109/SkariorObf-2.0`
+`cd SkariorObf-2.0\PC`
+`python SkariorObf_2.0_PC.py`
 
 ## Лицензия
 Под лицензией MIT. Более подробную информацию смотрите в файле [ЛИЦЕНЗИЯ](https://github.com/Doremii109/SkariorObf-2.0/blob/main/LICENSE).
