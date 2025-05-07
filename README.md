@@ -12,7 +12,7 @@ Python 3.12 or high!
 
 ## Usage
 ### For Windows
-`git clone https://github.com/Doremii109/SkariorObf-2.0`\n
+`git clone https://github.com/Doremii109/SkariorObf-2.0`<br>
 `cd SkariorObf-2.0\PC`
 `python SkariorObf_2.0_PC.py`
 
