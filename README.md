@@ -13,14 +13,14 @@ Python 3.12 or high!
 ## Usage
 ### For Windows
 `git clone https://github.com/Doremii109/SkariorObf-2.0`<br>
-`cd SkariorObf-2.0\PC`
+`cd SkariorObf-2.0\PC`<br>
 `python SkariorObf_2.0_PC.py`
 
 ### For Termux
-`pkg install git`
-`pkg install python3`
-`git clone https://github.com/Doremii109/SkariorObf-2.0`
-`cd SkariorObf-2.0\PC`
+`pkg install git`<br>
+`pkg install python3`<br>
+`git clone https://github.com/Doremii109/SkariorObf-2.0`<br>
+`cd SkariorObf-2.0\PC`<br>
 `python SkariorObf_2.0_PC.py`
 
 ## License
@@ -41,15 +41,15 @@ Python 3.12 или выше!
 
 ## Запуск
 ### Для Windows
-`git clone https://github.com/Doremii109/SkariorObf-2.0`
-`cd SkariorObf-2.0\PC`
+`git clone https://github.com/Doremii109/SkariorObf-2.0`<br>
+`cd SkariorObf-2.0\PC`<br>
 `python SkariorObf_2.0_PC.py`
 
 ### Для Termux
-`pkg install git`
-`pkg install python3`
-`git clone https://github.com/Doremii109/SkariorObf-2.0`
-`cd SkariorObf-2.0\PC`
+`pkg install git`<br>
+`pkg install python3`<br>
+`git clone https://github.com/Doremii109/SkariorObf-2.0`<br>
+`cd SkariorObf-2.0\PC`<br>
 `python SkariorObf_2.0_PC.py`
 
 ## Лицензия
